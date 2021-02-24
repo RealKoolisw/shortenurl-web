@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/RealKoolisw/shortenurl-web/master/assets/df01b2cc-a562-495d-a4a9-8e06af7bfddb.png">
+    <img src="https://raw.githubusercontent.com/RealKoolisw/shortenurl-web/master/assets/faf687df-2e44-4679-920d-c0a93b8f74e9.png">
 </p>
 
 # shortenurl-web
